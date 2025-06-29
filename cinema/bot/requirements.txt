@@ -1,0 +1,4 @@
+asyncio
+psycopg2
+pyTelegramBotAPI
+sqlalchemy
